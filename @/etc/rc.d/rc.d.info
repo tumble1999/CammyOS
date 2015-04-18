@@ -1,0 +1,7 @@
+0 – Shutdown
+1 – Single user mode [UNDER CONSTRUCTION]
+2 – Multiuser, without NFS [UNDER CONSTRUCTION]
+3 – Full multiuser mode [UNDER CONSTRUCTION]
+4 – unused
+5 – X11 [UNDER CONSTRUCTION]
+6 – reboot
